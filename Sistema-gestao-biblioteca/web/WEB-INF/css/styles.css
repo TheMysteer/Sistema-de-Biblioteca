@@ -1,0 +1,21 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 12 de mai. de 2025, 15:15:17
+    Author     : devmy
+*/
+
+body {
+  background: #f8f9fa;
+}
+h1, h2 {
+  margin-bottom: 1.5rem;
+}
+.card {
+  transition: transform .2s;
+}
+.card:hover {
+  transform: scale(1.03);
+}
